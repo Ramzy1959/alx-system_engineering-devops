@@ -34,4 +34,9 @@ Only digits and letters are used to sort; Digits should come first
 
 You can assume that all the files we will test with will have at least one letter or one digit
 
-The listing should end with a new line 
+The listing should end with a new line
+
+0 string SCHOOL school data
+!: mime school.
+
+NB; 0 is the offset, mime stnds for multipurpose internet mail extension 
