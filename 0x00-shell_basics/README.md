@@ -3,3 +3,8 @@ ls; this displays the content lists of the working directory
 cd ~; this is used to change the working directory to user's home directory
 ls -l; this is used to contents of current directory in a long format
 ls -al; this is used to display current directory contents, including hidden files
+ls -lna this is used to current directory's content in a long format, user and group IDs displayed numerically
+and hidden files.
+
+mkdir; this is the command used to create a directory
+
