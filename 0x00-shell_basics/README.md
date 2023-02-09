@@ -17,3 +17,4 @@ cd -; this is command is used to change the working directory to the previous on
 ls -al . ..; this command is used to list hidden files of the current directory and the directory before it, all in a long format
 file; this command is used to print a file
 cp -un *.filename ../;  script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+mv [[:upper:]]*; this is command used for moving upper case files
