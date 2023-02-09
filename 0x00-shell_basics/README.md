@@ -9,3 +9,5 @@ and hidden files.
 mkdir; this is the command used to create a directory
 
 mv; this command is used to move a file from one directory to another
+
+rm; this is used to delete a file
