@@ -13,3 +13,4 @@ mv; this command is used to move a file from one directory to another
 rm; this is used to delete a file
 
 rm -r; this ia command used to delete a directories with contents forcefully.
+cd -; this is command is used to change the working directory to the previous one.
