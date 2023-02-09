@@ -19,3 +19,4 @@ file; this command is used to print a file
 cp -un *.filename ../;  script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 mv [[:upper:]]*; this is command used for moving upper case files
 rm *~; this is a command used to delete all files in the current working directory that end with the character ~.
+mkdir -p, this is a command used to create directories with slash 
