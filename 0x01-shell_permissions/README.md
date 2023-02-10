@@ -17,3 +17,5 @@ Group: no permission at all
 
 Other users: all the permissions
 
+chmod 753; this is a command  that sets the mode of a file
+
