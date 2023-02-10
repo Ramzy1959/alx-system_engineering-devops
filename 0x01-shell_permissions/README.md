@@ -7,4 +7,13 @@ chmod u+x; this is a command used to add execute permission to a file or source 
 chmod ug+x,o+r; this is a command that adds execute permission to the owner and the group owner, and read permission to other users,on a particular file
 
 chmod ugo+x; this is another command that  adds execution permission to the owner, the group owner and the other users, to the file without commas
+chmod 007; this is a command  that sets the permission to a file  as follows:
+
+
+
+Owner: no permission at all
+
+Group: no permission at all
+
+Other users: all the permissions
 
