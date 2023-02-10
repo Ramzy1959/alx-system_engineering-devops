@@ -21,4 +21,5 @@ chmod 753; this is a command  that sets the mode of a file
 chmod –reference= filenames; this is a command that sets the mode of a file to the same as another file
 chmod -R +111 */; this is a command that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. regular files are not changed at the sametime.
 mkdir -m that creates a directory  with permissions  in the working directory.
+chgrp; this is a command that changes the group owner permission to another
 
