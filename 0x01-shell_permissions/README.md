@@ -23,4 +23,4 @@ chmod -R +111 */; this is a command that adds execute permission to all subdirec
 mkdir -m that creates a directory  with permissions  in the working directory.
 chgrp; this is a command that changes the group owner permission to another
 chown filename:filename*;this is a command  that changes the owner to a filename and the group owner to staff for all the files and directories in the working directory.
-
+chown -h filename filename; the command  that changes the owner and the group owner of the file _hello to vincent and staff respectively.
